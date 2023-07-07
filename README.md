@@ -1,5 +1,5 @@
-### Hi there 👋, Batuhan Terzi
-#### Generalist Game Developer
+# Batuhan Terzi
+# Generalist Game Developer
 
 <!--
 **terzibatuhan/terzibatuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
