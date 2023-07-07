@@ -1,4 +1,4 @@
-**IInteractable.cs**:
+**IInteractable.cs** :
 
 This script defines the interface for interactable objects in the game. It contains methods for interaction management.
 
