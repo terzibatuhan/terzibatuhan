@@ -1,5 +1,5 @@
 # Batuhan Terzi
-# Generalist Game Developer
+# Indie Game Developer - Specialized in AI Behaviour
 
 <!--
 **terzibatuhan/terzibatuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
