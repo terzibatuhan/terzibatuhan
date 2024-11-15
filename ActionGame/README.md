@@ -1,1 +1,1 @@
-This file is for sharing with you the game I develop called Action Game right now.
+This game was made for training purposes. I'm sharing with you the AI systems.
